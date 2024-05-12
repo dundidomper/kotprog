@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Webshop1</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="email">Email cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="phone">Telefonszám</string>
+
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string name="title_activity_shop_list">ShopListActivity</string>
+    <string name="product_description">Termék leírása</string>
+    <string name="guestLogin">Bejelentkezés vendégként</string>
+    <string name="toCart">Kosárba</string>
+    <string name="item_info_placeholder">item_info_placeholder</string>
+    <string name="item_placeholder">item_placeholder</string>
+    <string name="delete">Törlés</string>
+    <string name="Ruhabolt">Ruhabolt</string>
+
+    <string-array name="shopping_item_names">
+        <item>Barna póló</item>
+        <item>Fehér póló</item>
+        <item>Narancssárga póló</item>
+        <item>Zöld póló</item>
+        <item>Kapucnis pulóver</item>
+        <item>Fekete farmernadrág</item>
+        <item>Kék farmernadrág</item>
+        <item>Kockás szoknya</item>
+    </string-array>
+
+    <string-array name="shopping_item_description">
+        <item>Ez egy barna póló</item>
+        <item>Ez egy hagyományos fehér póló</item>
+        <item>Ez egy narancs póló</item>
+        <item>Ez egy minta nélküli, zöld póló</item>
+        <item>Ez egy kényelmes pulóver</item>
+        <item>Ez egy fekete farmer</item>
+        <item>Ez egy hagyományos farmernadrág</item>
+        <item>Ez egy kockás szoknya</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>3.9</item>
+        <item>1</item>
+        <item>4.2</item>
+        <item>5</item>
+        <item>3.6</item>
+        <item>4.5</item>
+        <item>4</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/barna_polo</item>
+        <item>@drawable/feher_polo</item>
+        <item>@drawable/narancs_polo</item>
+        <item>@drawable/zold_polo</item>
+        <item>@drawable/pulover</item>
+        <item>@drawable/fekete_farmer</item>
+        <item>@drawable/kek_farmer</item>
+        <item>@drawable/szoknya</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>2999 Ft</item>
+        <item>2999 Ft</item>
+        <item>6999 Ft</item>
+        <item>3999 Ft</item>
+        <item>7999 Ft</item>
+        <item>8499 Ft</item>
+        <item>8499 Ft</item>
+        <item>5999 Ft</item>
+    </array>
+</resources>

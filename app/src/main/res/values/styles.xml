@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ItemDetailText">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Button.Green" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/holo_green_light</item>
+    </style>
+
+    <style name="ItemTitleText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
